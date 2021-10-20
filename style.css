@@ -60,7 +60,7 @@ html, body{
 .links li a{
     text-decoration: none;
     color: rgb(19, 60, 83);
-    font-size: 21px;
+    font-size: 25px;
     font-style: italic;
     font-family: 'Lora', serif;
 }
@@ -68,6 +68,7 @@ html, body{
 .links p{
     margin-top: 10px;
     color: rgb(65, 65, 65);
+    font-size: 20px;
 }
 
 .destaque{
