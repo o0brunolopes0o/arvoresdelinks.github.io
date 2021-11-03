@@ -55,6 +55,7 @@ html, body{
     border-radius: 10px;
     height: auto;
     padding: 10px;
+    margin-bottom: 20px;
 }
 
 .links li a{
